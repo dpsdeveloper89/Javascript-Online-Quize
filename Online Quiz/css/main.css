@@ -1,0 +1,41 @@
+@import url(bootstrap.min.css);
+@import url(font-awesome.min.css);
+@import url(customfonts.css);
+body{
+	padding-top: 110px;
+	background-color: rgb(247, 244, 244);
+	font-family: 'amaranthregular',sans-serif;
+}
+.navbar-fixed-top{
+	height: 100px;
+	background-color: rgb(48, 46, 46);
+	color: #fff;
+	border-bottom: 2px solid rgb(247, 118, 118);
+}
+#logo{
+	padding-top: 10px;
+	font-family:  'amaranthregular', sans-serif;
+	font-size: 35px;
+	font-style: italic;
+}
+#logo1{
+	font-family:  'amaranthregular', sans-serif;
+	font-size: 35px;
+	position: relative;
+	bottom: 30px;
+	font-style: italic;
+}
+#content{
+	padding-top: 50px;
+	font-family: 'Arizonia-Regular',sans-serif;
+	font-size: 30px;
+	/*color: blue;*/
+}
+
+
+div#test{
+	border:1px solid black;
+	border-radius: 30px;
+	border-color: rgb(219, 210, 210);
+	padding: 10px 40px 40px 40px;
+}

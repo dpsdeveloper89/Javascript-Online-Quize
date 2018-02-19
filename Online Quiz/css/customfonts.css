@@ -1,0 +1,91 @@
+
+@font-face {
+    font-family:'amaranthBold';
+    src: url('../fonts/amaranth-bold-webfont.eot');
+    src: url('../fonts/amaranth-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/amaranth-bold-webfont.woff2') format('woff2'),
+         url('../fonts/amaranth-bold-webfont.woff') format('woff'),
+         url('../fonts/amaranth-bold-webfont.ttf') format('truetype'),
+         url('../fonts/amaranth-bold-webfont.svg#amaranthregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'amaranthBolditalic';
+    src: url('../fonts/amaranth-bolditalic-webfont.eot');
+    src: url('../fonts/amaranth-bolditalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/amaranth-bolditalic-webfont.woff2') format('woff2'),
+         url('../fonts/amaranth-bolditalic-webfont.woff') format('woff'),
+         url('../fonts/amaranth-bolditalic-webfont.ttf') format('truetype'),
+         url('../fonts/amaranth-bolditalic-webfont.svg#amaranthregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'amaranthregular';
+    src: url('../fonts/amaranth-regular-webfont.eot');
+    src: url('../fonts/amaranth-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/amaranth-regular-webfont.woff2') format('woff2'),
+         url('../fonts/amaranth-regular-webfont.woff') format('woff'),
+         url('../fonts/amaranth-regular-webfont.ttf') format('truetype'),
+         url('../fonts/amaranth-regular-webfont.svg#amaranthregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'kaushan_scriptregular';
+    src: url('../fonts/kaushanscript-regular-webfont.eot');
+    src: url('../fonts/kaushanscript-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/kaushanscript-regular-webfont.woff2') format('woff2'),
+         url('../fonts/kaushanscript-regular-webfont.woff') format('woff'),
+         url('../fonts/kaushanscript-regular-webfont.ttf') format('truetype'),
+         url('../fonts/kaushanscript-regular-webfont.svg#kaushan_scriptregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'Pacifico';
+  src: url('../fonts/Pacifico.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/Pacifico.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/Pacifico.woff2') format('woff2'), /* Modern Browsers */
+    url('../fonts/Pacifico.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/Pacifico.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/Pacifico.svg') format('svg'); /* Legacy iOS */  font-weight: normal;
+  font-style: normal;
+}
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: 'Arizonia-Regular';
+  src: url('../fonts/Arizonia-Regular.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/Arizonia-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/Arizonia-Regular.woff2') format('woff2'), /* Modern Browsers */
+    url('../fonts/Arizonia-Regular.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/Arizonia-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/Arizonia-Regular.svg') format('svg'); /* Legacy iOS */  font-weight: normal;
+  font-style: normal;
+}
+
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: 'Yellowtail';
+  src: url('../fonts/Yellowtail-Regular.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/Yellowtail-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/Yellowtail-Regular.woff2') format('woff2'), /* Modern Browsers */
+    url('../fonts/Yellowtail-Regular.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/Yellowtail-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/Yellowtail-Regular.svg') format('svg'); /* Legacy iOS */  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+
